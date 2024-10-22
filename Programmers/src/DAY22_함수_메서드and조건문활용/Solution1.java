@@ -1,4 +1,4 @@
-package DAY22_함수_메섣and조건문활용;
+package DAY22_함수_메서드and조건문활용;
 
 public class Solution1 {
 	public static void main(String[] args) {
